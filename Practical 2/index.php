@@ -1,3 +1,5 @@
+<?php
+?>
 <html>
     <head>
         <h1>Web Technology Lab</h1>
